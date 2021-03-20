@@ -1,2 +1,1 @@
-# PRO-164---Paintball-2.0
-Mid-air paintball splashes? Don't worry, life can be weirder....
+# PRO-C164-Project-Solution
